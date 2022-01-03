@@ -1,0 +1,22 @@
+/Users/daud/Projects/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.exe
+/Users/daud/Projects/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.pdb
+/Users/daud/Projects/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.csprojAssemblyReference.cache
+/Users/daud/Projects/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.exe
+/Users/daud/Projects/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.pdb
+/Users/daud/Desktop/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.exe
+/Users/daud/Desktop/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.pdb
+/Users/daud/Desktop/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.csprojAssemblyReference.cache
+/Users/daud/Desktop/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.exe
+/Users/daud/Desktop/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.pdb
+/Users/daud/Desktop/3020/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.exe
+/Users/daud/Desktop/3020/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.pdb
+/Users/daud/Desktop/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.csprojAssemblyReference.cache
+/Users/daud/Desktop/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.exe
+/Users/daud/Desktop/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.pdb
+/Users/daud/Desktop/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.csproj.CoreCompileInputs.cache
+/Users/daud/OneDrive - Trent University/3020/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.exe
+/Users/daud/OneDrive - Trent University/3020/3020_Assgn1/3020_Assgn1/bin/Debug/3020_Assgn1.pdb
+/Users/daud/OneDrive - Trent University/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.csprojAssemblyReference.cache
+/Users/daud/OneDrive - Trent University/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.csproj.CoreCompileInputs.cache
+/Users/daud/OneDrive - Trent University/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.exe
+/Users/daud/OneDrive - Trent University/3020/3020_Assgn1/3020_Assgn1/obj/Debug/3020_Assgn1.pdb
